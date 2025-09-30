@@ -1,4 +1,4 @@
-public class DebugBox
+class DebugBox
 {
 
    
@@ -39,3 +39,4 @@ public class DebugBox
    }
 
 }
+
