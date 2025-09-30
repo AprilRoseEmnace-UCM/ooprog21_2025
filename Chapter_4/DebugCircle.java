@@ -1,4 +1,4 @@
-public class DebugCircle {
+class DebugCircle {
    
    private int radius;
    private int diameter;
@@ -23,4 +23,5 @@ public class DebugCircle {
       return area;
    }
 }
+
 
